@@ -13,7 +13,7 @@ The project showcases interactive UI components, scroll-driven animations, 3D pa
 Vercel Deployment Link:
 
 ```
-Add your Vercel URL here
+https://chainsignal.vercel.app/
 ```
 
 ---
